@@ -105,4 +105,30 @@ Thus the JK flipflop using verilog and validating their functionality using thei
 .
 
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 
